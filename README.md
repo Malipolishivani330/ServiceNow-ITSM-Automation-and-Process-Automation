@@ -1,4 +1,4 @@
-# ServiceNow ITSM Automation and Process Automation
+# ServiceNow ITSM Automation and Service Operations
 
 ## Project Overview
 
